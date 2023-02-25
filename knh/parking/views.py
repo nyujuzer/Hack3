@@ -19,3 +19,15 @@ def Fill(request):
         serializer.save()
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
+@api_view(['GET'])
+def getThis(request, id):
+    try:
+        spot = Spot.objects.get(pk=id)
+    except Spot.DoesNotExist:
+        return Response(status=status.HTTP_404_NOT_FOUND)
+    serializer = SpotSerializer(spot)
+    return JsonResponse({"selectedSpot":serializer.data})
+
+@api_view(['PUT'])
+def Update(request):
+    return
