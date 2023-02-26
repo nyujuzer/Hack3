@@ -1,0 +1,14 @@
+{
+  "_id": {
+    "$oid": "63c7ff46e39f5187bbea464a"
+  },
+  "amount": 500,
+  "currency": "mg",
+  "username": "zoli",
+  "type": "metagold:by:admin",
+  "referalLevel": null,
+  "method": "manual",
+  "status": "success",
+  "createdAt": 1667872211496,
+  "updatedAt": 1667872211496
+}

@@ -1,0 +1,101 @@
+{
+    "_id": {
+        "$oid": "5fbbc2e00f59894c62022b63"
+    },
+    "username": "zoli",
+    "email": "zoltan.zseli@gmail.com",
+    "password": "$2y$10$0HR3CIq//mxTNFFolAnul.HbrHDi3kEUTO1IyAh8EUi/fG7t7Epu6",
+    "createdAt": 1606140640,
+    "status": "active",
+    "isAdmin": 1,
+    "internalWalletId": "5fbbc2e00f59894c62022b62",
+    "profile": {
+        "language": "EN",
+        "firstName": "",
+        "lastName": "",
+        "gender": "male",
+        "birthDate": "",
+        "facebook": "https://facebook.com",
+        "country": "hungary",
+        "profileImage": "esm_1673918752573_user_profile_zoli.png",
+        "coverImage": "esm_1673918721629_user_cover_zoli.png",
+        "city": "",
+        "twitch": "",
+        "gameAccounts": [{
+                "game": "clash-royal",
+                "accountId": "hhjjhhjhjhj"
+            },
+            {
+                "game": "mortal-kombat11",
+                "accountId": "hgjjg"
+            },
+            {
+                "game": "valorant",
+                "accountId": "ULTiMATE pinGu",
+                "riot": {
+                    "puuid": "du2yZp2HHH-j72-1AD0SDa9Nyyl6cCrqgGnO6AbVrK6Q0iSuNTWgZEBkp7NoQZR7HVAM8zFcOckTUQ",
+                    "gameName": "ULTiMATE pinGu",
+                    "tagLine": "EUW"
+                }
+            },
+            {
+                "game": "csgo",
+                "accountId": "76561197977016615"
+            },
+            {
+                "game": "tft-euw",
+                "accountId": "ULTiMATE pinGu",
+                "riot": {
+                    "puuid": "du2yZp2HHH-j72-1AD0SDa9Nyyl6cCrqgGnO6AbVrK6Q0iSuNTWgZEBkp7NoQZR7HVAM8zFcOckTUQ",
+                    "gameName": "ULTiMATE pinGu",
+                    "tagLine": "EUW",
+                    "cpid": "EUW1",
+                    "encryptedAccountId": null
+                }
+            },
+            {
+                "game": "tft-eune",
+                "accountId": "ULTiMATE pinGu",
+                "riot": {
+                    "puuid": "du2yZp2HHH-j72-1AD0SDa9Nyyl6cCrqgGnO6AbVrK6Q0iSuNTWgZEBkp7NoQZR7HVAM8zFcOckTUQ",
+                    "gameName": "ULTiMATE pinGu",
+                    "tagLine": "EUW",
+                    "cpid": "EUW1",
+                    "encryptedAccountId": null
+                }
+            },
+            {
+                "game": "lol-euw",
+                "accountId": "ULTiMATE pinGu",
+                "riot": {
+                    "puuid": "du2yZp2HHH-j72-1AD0SDa9Nyyl6cCrqgGnO6AbVrK6Q0iSuNTWgZEBkp7NoQZR7HVAM8zFcOckTUQ",
+                    "gameName": "ULTiMATE pinGu",
+                    "tagLine": "EUW",
+                    "cpid": "EUW1",
+                    "encryptedAccountId": null
+                }
+            }
+        ]
+    },
+    "codes": {
+        "registration": {
+            "code": "",
+            "timestamp": null
+        },
+        "password-recovery": {
+            "code": "",
+            "timestamp": null
+        }
+    },
+    "deletedAt": null,
+    "shareWithMetaplayers": true,
+    "completedQuests": [
+        1,
+        5,
+        3,
+        2,
+        9
+    ],
+    "experience": 125,
+    "activePackage": null
+}
